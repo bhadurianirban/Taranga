@@ -1,0 +1,12 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 15, 2024, 4:57:43 PM
+    Author     : bhaduri
+*/
+
+.landing-wrapper #introduction {
+    background-image: url("#{resource['taranga:images/landing/trading.png']}");
+}
